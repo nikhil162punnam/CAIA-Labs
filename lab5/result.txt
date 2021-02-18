@@ -1,0 +1,4 @@
+The classifer is written in the file 'myclassifier.m'. The average precision of our classifer is 0.5833. The execution time of the classifer is around 11 sec on a i5-8250U machine. The name of the team is DC_FU and the team members are:
+1) Punnam Nikhil Karthik (nikhilkarthik.punnam.4450@student.uu.se)
+2) Vishnu Sharma (vishnu.sharma.4979@student.uu.se)
+3) Dheeraj Sree Vamsi Krishna Chalamalasetti (dheerajsreevamsikrishn.chalamalasetti.0385@student.uu.se)
